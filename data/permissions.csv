@@ -1,0 +1,101 @@
+id,"libelle","slug","created_at","updated_at","deleted_at"
+1,"Create CategorieUser","create-categorieuser","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+2,"View Any CategorieUser","view-any-categorieuser","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+3,"Update CategorieUser","update-categorieuser","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+4,"Delete CategorieUser","delete-categorieuser","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+5,"Create User","create-user","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+6,"View Any User","view-any-user","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+7,"Update User","update-user","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+8,"Delete User","delete-user","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+9,"Create Role","create-role","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+10,"View Any Role","view-any-role","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+11,"Update Role","update-role","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+12,"Delete Role","delete-role","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+13,"Create Permission","create-permission","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+14,"View Any Permission","view-any-permission","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+15,"Update Permission","update-permission","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+16,"Delete Permission","delete-permission","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+17,"Create Dossier","create-dossier","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+18,"View Any Dossier","view-any-dossier","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+19,"Update Dossier","update-dossier","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+20,"Delete Dossier","delete-dossier","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+21,"Create TypeDemande","create-typedemande","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+22,"View Any TypeDemande","view-any-typedemande","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+23,"Update TypeDemande","update-typedemande","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+24,"Delete TypeDemande","delete-typedemande","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+25,"Create Pays","create-pays","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+26,"View Any Pays","view-any-pays","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+27,"Update Pays","update-pays","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+28,"Delete Pays","delete-pays","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+29,"Create EtatDemande","create-etatdemande","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+30,"View Any EtatDemande","view-any-etatdemande","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+31,"Update EtatDemande","update-etatdemande","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+32,"Delete EtatDemande","delete-etatdemande","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+33,"Create EtapeTraitement","create-etapetraitement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+34,"View Any EtapeTraitement","view-any-etapetraitement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+35,"Update EtapeTraitement","update-etapetraitement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+36,"Delete EtapeTraitement","delete-etapetraitement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+37,"Create TypePaiement","create-typepaiement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+38,"View Any TypePaiement","view-any-typepaiement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+39,"Update TypePaiement","update-typepaiement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+40,"Delete TypePaiement","delete-typepaiement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+41,"Create MoyenPaiement","create-moyenpaiement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+42,"View Any MoyenPaiement","view-any-moyenpaiement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+43,"Update MoyenPaiement","update-moyenpaiement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+44,"Delete MoyenPaiement","delete-moyenpaiement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+45,"Create Demande","create-demande","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+46,"View Any Demande","view-any-demande","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+47,"Update Demande","update-demande","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+48,"Delete Demande","delete-demande","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+49,"Create CodePromo","create-codepromo","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+50,"View Any CodePromo","view-any-codepromo","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+51,"Update CodePromo","update-codepromo","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+52,"Delete CodePromo","delete-codepromo","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+53,"Create Paiement","create-paiement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+54,"View Any Paiement","view-any-paiement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+55,"Update Paiement","update-paiement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+56,"Delete Paiement","delete-paiement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+57,"Create TypeDocument","create-typedocument","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+58,"View Any TypeDocument","view-any-typedocument","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+59,"Update TypeDocument","update-typedocument","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+60,"Delete TypeDocument","delete-typedocument","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+61,"Create EtatDocument","create-etatdocument","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+62,"View Any EtatDocument","view-any-etatdocument","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+63,"Update EtatDocument","update-etatdocument","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+64,"Delete EtatDocument","delete-etatdocument","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+65,"Create Document","create-document","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+66,"View Any Document","view-any-document","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+67,"Update Document","update-document","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+68,"Delete Document","delete-document","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+69,"Create TypePiece","create-typepiece","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+70,"View Any TypePiece","view-any-typepiece","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+71,"Update TypePiece","update-typepiece","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+72,"Delete TypePiece","delete-typepiece","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+73,"Create Piece","create-piece","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+74,"View Any Piece","view-any-piece","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+75,"Update Piece","update-piece","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+76,"Delete Piece","delete-piece","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+77,"Create Admin","create-admin","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+78,"View Any Admin","view-any-admin","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+79,"Update Admin","update-admin","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+80,"Delete Admin","delete-admin","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+81,"Create Message","create-message","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+82,"View Any Message","view-any-message","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+83,"Update Message","update-message","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+84,"Delete Message","delete-message","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+85,"Create EtatEtapeTraitement","create-etatetapetraitement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+86,"View Any EtatEtapeTraitement","view-any-etatetapetraitement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+87,"Update EtatEtapeTraitement","update-etatetapetraitement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+88,"Delete EtatEtapeTraitement","delete-etatetapetraitement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+89,"Create StatusEtatTraitement","create-sattusetattraitement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+90,"View Any StatusEtatTraitement","view-any-sattusetattraitement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+91,"Update StatusEtatTraitement","update-sattusetattraitement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+92,"Delete StatusEtatTraitement","delete-sattusetattraitement","2023-01-26 10:33:16","2023-01-26 10:33:16",NULL
+281,"Create Observation","create-observation","2023-02-01 11:37:07","2023-02-01 11:37:07",NULL
+282,"View Any Observation","view-any-observation","2023-02-01 11:37:07","2023-02-01 11:37:07",NULL
+283,"Update Observation","update-observation","2023-02-01 11:37:07","2023-02-01 11:37:07",NULL
+284,"Delete Observation","delete-observation","2023-02-01 11:37:07","2023-02-01 11:37:07",NULL
+285,"Create Attribution","create-attribution","2023-02-01 11:37:07","2023-03-03 12:25:05",NULL
+286,"View Any Attribution","view-any-atribution","2023-02-01 11:37:07","2023-02-01 11:37:07",NULL
+287,"Update Attribution","update-attribution","2023-02-01 11:37:07","2023-02-01 11:37:07",NULL
+288,"Delete Attribution","delete-atribution","2023-02-01 11:37:07","2023-02-01 11:37:07",NULL

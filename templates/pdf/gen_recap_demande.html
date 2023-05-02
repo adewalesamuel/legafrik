@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Mon template</title>
+</head>
+<body>
+	<h2>{{ data['type_demande']['libelle'] }} - <span style="color:#006699">{{ data['champs_demande']['nom-entreprise'] }}</span></h2>
+	<p><strong>Numéro de la demande :</strong> {{ data['numero_demande'] }}</p>
+	<p><strong>Date de création :</strong> {{ data['created_at'] }}</p>
+
+	<hr/>
+
+	<h3 style="color:#006699">Auteur</h3>
+	<p><strong>Nom & prénoms: </strong> {{ data['user']['username'] }}</p>
+	<p><strong>Numéro de téléphone : </strong> {{ data['user']['numero_telephone'] }}</p>
+	<p><strong>Email : </strong> {{ data['user']['email'] }}</p>
+	<p><strong>Statut du compte : </strong>{% if data['user']['is_active'] == "true" or data['user']['is_active'] == 1 %} Activé {% else %} Désactivé {% endif %}</p>
+	
+	<hr/>
+
+	<h3 style="color:#006699">Information lead</h3>
+	<p><strong>Secteur d'activité :</strong> {{ data['champs_demande']['secteur-activite'] }}</p>
+	<p><strong>Nombre associé(s) :</strong> {{ data['champs_demande']['nombre-associes'] }}</p>
+	<p><strong>Banque :</strong> {{ data['champs_demande']['banque'] }}</p>
+	<p><strong>Secteur d'activité :</strong> {{ data['champs_demande']['a-entreprise'] }}</p>
+	<p><strong>Date de réception :</strong> {{ data['champs_demande']['date-reception-certificat'] }}</p>
+	<p><strong>Siège de l'entreprise :</strong> {{ data['champs_demande']['siege-entreprise'] }}</p>
+	<p><strong>Capital social :</strong> {{ data['champs_demande']['capital-social'] }}</p>
+	<p><strong>Offre :</strong> {{ data['champs_demande']['offre'] }}</p>
+	<p><strong>Formule :</strong> {{ data['champs_demande']['formule'] }}</p>
+	<p><strong>Gestion DFE :</strong> {{ data['champs_demande']['gestion-dfe'] }}</p>
+	<p><strong>Gestion graphique :</strong> {{ data['champs_demande']['gestion-graphique'] }}</p>
+	<p><strong>Gestion facture :</strong> {{ data['champs_demande']['gestion-facture-normalisees'] }}</p>
+	<p><strong>Solution comptable :</strong> {{ data['champs_demande']['solution-comptable'] }}</p><br/><br/>
+
+	<hr/>
+
+	<h3 style="color:#006699">Information questionnaire</h3>
+	{% if data['champs_questionnaire']['sigle'] %}<p><strong>Sigle :</strong> {{ data['champs_questionnaire']['sigle'] }}</p>{% endif %}
+
+	{% if data['addresse']['ville'] %}<p><strong>Ville :</strong> {{ data['addresse']['ville'] }}</p>{% endif %}
+	{% if data['addresse']['quartier'] %}<p><strong>Quartier :</strong> {{ data['addresse']['quartier'] }}</p>{% endif %}
+	{% if data['addresse']['numero-lot'] %}<p><strong>Lot :</strong> {{ data['addresse']['numero-lot'] }}</p>{% endif %}
+	{% if data['addresse']['numero-ilot'] %}<p><strong>Ilot :</strong> {{ data['addresse']['numero-ilot'] }}</p>{% endif %}
+	{% if data['addresse']['numero-section'] %}<p><strong>Section :</strong> {{ data['addresse']['numero-section'] }}</p>{% endif %}
+	{% if data['addresse']['numero-parcelle'] %}<p><strong>Parcelle :</strong> {{ data['addresse']['numero-parcelle'] }}</p>{% endif %}
+	{% if data['addresse']['addresse'] %}<p><strong>Adresse :</strong> {{ data['addresse']['addresse'] }}</p>{% endif %}
+	{% if data['addresse']['commune'] %}<p><strong>Commune :</strong> {{ data['addresse']['commune'] }}</p>{% endif %}
+
+	<h4 style="color:#006699">Information associés</h4>
+		{% for associe in data['associes'] %}
+			{% if associe["type"] == "societe" %}
+				<strong style="color:#006699">Associé {{ loop.index }}</strong><br/>
+				<ul>
+					<li><strong>Type :</strong> {{ associe["type"] }}</li>
+					<li><strong>Denomination :</strong> {{ associe["nom-societe"] }}</li>
+					<li><strong>Forme sociale :</strong> {{ associe["forme-sociale"] }}</li>
+					<li><strong>Capital sociale :</strong> {{ associe["capital-sociale"] }}</li>
+					<li><strong>Monnaie :</strong> {{ associe["monnaie"] }}</li>
+					<li><strong>Siège sociale :</strong> {{ associe["siege-sociale"] }}</li>
+					<li><strong>Numéro rcs :</strong> {{ associe["numero-rcs"] }}</li>
+					<li><strong>Ville immatriculation :</strong> {{ associe["ville-immatriculation"] }}</li>
+					<li><strong>Nom représentant :</strong> {{ associe["nom-representant"] }}</li>
+					<li><strong>Prénoms representant :</strong> {{ associe["prenom-representant"] }}</li>
+					<li><strong>Domicile representant :</strong> {{ associe["domicile-representant"] }}</li>
+					<li><strong>Type nationalite :</strong> {{ associe["type-nationalite"] }}</li>
+					<li><strong>Apport :</strong> {{ associe["apport"] }}</li>
+				</ul><br/>
+			{% elif associe["type"] == "moi-meme" %}
+				<strong style="color:#006699">Associé {{ loop.index }}</strong><br/>
+				<ul>
+					<p><strong>Nom & prénoms: </strong> {{ data['user']['username'] }}</p>
+					<li><strong>Numéro pièce :</strong> {{ associe["numero-piece-identite"] }}</li>
+					<li><strong>Date de naissance :</strong> {{ associe["date-naissance"] }}</li>
+					<li><strong>Lieu de naissance :</strong> {{ associe["lieu-naissance"] }}</li>
+					<li><strong>Pays de naissance :</strong> {{ associe["pays-naissance"] }}</li>
+					<li><strong>Nationalité :</strong> {{ associe["nationalite"] }}</li>
+					<li><strong>Adresse :</strong> {{ associe["adresse"] }}</li>
+					<li><strong>Situation matrimoniale :</strong> {{ associe["situation-matrimoniale"] }}</li>
+					<li><strong>Apport :</strong> {{ associe["apport"] }}</li>
+				</ul><br/>
+				{% else %}
+				<strong style="color:#006699">Associé {{ loop.index }}</strong><br/>
+				<ul>
+					<li><strong>Nom :</strong> {{ associe["nom"] }}</li>
+					<li><strong>Prénoms :</strong> {{ associe["prenoms"] }}</li>
+					<li><strong>Numéro pièce :</strong> {{ associe["numero-piece-identite"] }}</li>
+					<li><strong>Date de naissance :</strong> {{ associe["date-naissance"] }}</li>
+					<li><strong>Lieu de naissance :</strong> {{ associe["lieu-naissance"] }}</li>
+					<li><strong>Pays de naissance :</strong> {{ associe["pays-naissance"] }}</li>
+					<li><strong>Nationalité :</strong> {{ associe["nationalite"] }}</li>
+					<li><strong>Adresse :</strong> {{ associe["adresse"] }}</li>
+					<li><strong>Situation matrimoniale :</strong> {{ associe["situation-matrimoniale"] }}</li>
+					<li><strong>Apport :</strong> {{ associe["apport"] }}</li>
+				</ul><br/>
+			{% endif %}
+		{% endfor %}
+
+		<br/>
+
+		{% if data['gerants'] != "Aucun" %}
+			<h4 style="color:#006699">Information Gerants</h4>
+			{% for gerant in data['gerants'] %}
+			<strong style="color:#006699">Gérant {{ loop.index }}</strong><br/>
+			<ul>
+				<li><strong>Ce gérant fait-il partie des associes ? :</strong> {{ gerant["fait-partie-des-associes"] }}</li>
+				<li><strong>Nom & prénoms:</strong> {{ gerant["associe-gerant"] }}</li>
+			</ul><br/>
+			{% endfor %}
+		{% endif %}
+
+		<hr/>
+
+		{% if data['president'] != "Aucun" %}
+			<h3 style="color:#006699">Information président</h3>
+			<p><strong>Nom :</strong> {{ data['president']['nom'] }}</p>
+			<p><strong>Prénoms :</strong> {{ data['president']['prenoms'] }}</p>
+			<p><strong>Numéro :</strong> {{ data['president']['numero_telephone'] }}</p>
+			<p><strong>Date de naissance :</strong> {{ data['president']['date-naissance'] }}</p>
+		{% endif %}
+
+		<hr/>
+
+		{% if data['directeur'] != "Aucun" %}
+			<h3 style="color:#006699">Information directeur</h3>
+			<p><strong>Nom :</strong> {{ data['directeur']['nom'] }}</p>
+			<p><strong>Prénoms :</strong> {{ data['directeur']['prenoms'] }}</p>
+			<p><strong>Numéro :</strong> {{ data['directeur']['numero-telephone'] }}</p>
+			<p><strong>Date de naissance :</strong> {{ data['directeur']['date-naissance'] }}</p>
+			<p><strong>Lieu de naissance :</strong> {{ data['directeur']['lieu-naissance'] }}</p>
+			<p><strong>Nom du père :</strong> {{ data['directeur']['nom-pere'] }}</p>
+			<p><strong>Nom de la mère :</strong> {{ data['directeur']['nom-mere'] }}</p>
+		{% endif %}
+	
+	
+
+</body>
+</html>

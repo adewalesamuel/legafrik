@@ -1,0 +1,9 @@
+id,"username","email","numero_telephone","password","birthdate","sex","address","profile_url",is_active,categorie_user_id,"email_verified_at","created_at","updated_at","deleted_at"
+4,"User Test samuel","test@mail.com","0987978798","$5$rounds=535000$fFqfTNWF4LRmMqCG$2mRjeJMtqZfP4t41Sw1lz8Ym/msaJEpCks7DWI9UVV2","2021-03-03 00:00:00","M","My adress","",1,NULL,NULL,"2022-11-21 10:44:39","2023-03-27 10:15:35",NULL
+52,"Daniel Jackob","daniel@gmail.com",NULL,"$5$rounds=535000$AuLZdBb8rE7Y.RMh$z/DZ8EAbCly30v08zxXxH232fluXxVfB1QCUCDyHgcC",NULL,NULL,NULL,NULL,1,NULL,NULL,"2023-02-09 16:08:42","2023-02-09 16:08:42",NULL
+53,"New User Samuel","newuser@mail.com",NULL,"$5$rounds=535000$awCs2iVE6W.K4ieQ$NYpr6PJfLKva6Zl20msymB/Un3p5JTdo0.YslpchBn2",NULL,NULL,NULL,NULL,1,NULL,NULL,"2023-03-03 16:10:53","2023-03-03 16:10:53",NULL
+54,"test numero","testnumero@mail.com",NULL,"$5$rounds=535000$PAQB7gfqCSgMxVPR$g22EHtYycuc5eLyPSntFHHIzHAicyaRA7v/Yu2CVdB.",NULL,NULL,NULL,NULL,1,NULL,NULL,"2023-03-09 12:46:31","2023-03-09 12:46:31",NULL
+56,"test numero","testnumero2@mail.com","8789HKJN","$5$rounds=535000$UhOrruj2OhjFq7Xr$J3NGXtZod5ZkbAmiSx.S2OtRxXd0DIbLOKZ/lBy/6rC",NULL,NULL,NULL,NULL,1,NULL,NULL,"2023-03-09 12:48:33","2023-03-09 12:48:33",NULL
+58,"test@mail2.com","test@mail2.com",NULL,"$5$rounds=535000$NHj3jOAYf6l37cam$Ixw5H4l5gBnBUbMA4N.U3pGOBYDF2U1MUu5N4ASSZa3",NULL,NULL,NULL,NULL,1,NULL,NULL,"2023-03-09 12:49:17","2023-03-09 12:49:17",NULL
+59,"test@mail3.com","test@mail3.com","","$5$rounds=535000$iiqRdOyGKTUJ5Aj2$/Rn5Zk.qFgnKTXvtab3Dyxm2CYdEoxzUAFECZSG6t6A",NULL,NULL,NULL,NULL,1,NULL,NULL,"2023-03-09 12:51:07","2023-03-09 12:51:07",NULL
+60,"Test Numero","testnum@mail.com","3242332","$5$rounds=535000$YL5UUBnMDfYDLK39$o98zSCDYYS210pC7nweWIMMo9VVuMmhiYJrUh1Rg7v8",NULL,NULL,NULL,NULL,1,NULL,NULL,"2023-03-09 13:00:52","2023-03-09 13:00:52",NULL

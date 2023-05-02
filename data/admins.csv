@@ -1,0 +1,6 @@
+id,"username","email","password",role_id,"profile_url","created_at","updated_at","deleted_at",pays_id
+1,"Super Admin","admin@legafrik.com","$5$rounds=535000$GboH7Jn.gaookSCp$ob5Kb3.uBzuYCqEh.LSnRwE1kro7bEpPqTegwPk8ar2",1,"","2022-11-24 10:11:27","2022-11-30 14:33:23",NULL,NULL
+7,"admin 6","admin3@maissl.com","$5$rounds=535000$UE5unDxLjMSHu7ll$RFqwPhEV.HT7gui6GD7qRVCAedfYW9.S1zqEjj3NzWA",2,"","2022-12-22 11:14:58","2022-12-22 11:14:58",NULL,NULL
+8,"admin 2","admin2@mail.com","$5$rounds=535000$J/wSHibrTdSJJtTR$Xl/pQREDsHUN.w1tHUehIgNvmQ43BVqkcZBejzXTIh.",3,"","2023-03-22 11:38:47","2023-03-22 11:40:10",NULL,2
+9,"admin benin","adminbenin@mail.com","$5$rounds=535000$mlRJsfoW/Bg6aA7L$7fqFmkito09PZilndm.ANVGBMp7J5cbMCi0So3.F5y3",2,"","2023-03-30 09:50:26","2023-03-30 09:50:26",NULL,3
+10,"admin maroc","adminmaroc@mail.com","$5$rounds=535000$5nrXIylOOt6rR8gr$w2nw34ihBeu.RojKEQ62woibCnJ5mKV4Gj2MOYv0KVA",2,"","2023-03-30 09:50:38","2023-03-30 09:50:38",NULL,6

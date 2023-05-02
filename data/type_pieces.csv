@@ -1,0 +1,179 @@
+id,libelle,created_at,updated_at,deleted_at,type_demande_id,is_particulier
+1,CNI / Passeport,2022-11-28 12:15:51,2023-04-20 09:12:48,NULL,1,1
+4,Extrait de naissance,2023-02-09 10:24:04,2023-02-23 12:11:32,NULL,1,1
+5,Acte de mariage (si marié),2023-02-09 10:24:15,2023-02-23 12:11:32,NULL,1,1
+6,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:46,NULL,1,1
+7,Facture CIE / SODECI,2023-02-09 10:25:03,2023-02-23 12:11:32,NULL,1,1
+8,Plan de localisation du siège,2023-02-09 10:25:22,2023-02-23 12:11:32,NULL,1,1
+13,CNI / Passeport,2022-11-28 12:15:51,2023-04-20 09:12:48,NULL,2,1
+14,Extrait de naissance,2023-02-09 10:24:04,2023-02-23 12:11:32,NULL,2,1
+15,Acte de mariage (si marié),2023-02-09 10:24:15,2023-02-23 12:11:32,NULL,2,1
+16,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:46,NULL,2,1
+17,Facture CIE / SODECI,2023-02-09 10:25:03,2023-02-23 12:11:32,NULL,2,1
+18,Plan de localisation du siège,2023-02-09 10:25:22,2023-02-23 12:11:32,NULL,2,1
+19,CNI / Passeport,2022-11-28 12:15:51,2023-04-20 09:12:47,NULL,9,1
+20,Extrait de naissance,2023-02-09 10:24:04,2023-02-23 12:11:32,NULL,9,1
+21,Acte de mariage (si marié),2023-02-09 10:24:15,2023-02-23 12:11:32,NULL,9,1
+22,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:46,NULL,9,1
+23,Facture CIE / SODECI,2023-02-09 10:25:03,2023-02-23 12:11:32,NULL,9,1
+24,Plan de localisation du siège,2023-02-09 10:25:22,2023-02-23 12:11:32,NULL,9,1
+25,CNI / Passeport,2022-11-28 12:15:51,2023-04-20 09:12:46,NULL,17,1
+26,Extrait de naissance,2023-02-09 10:24:04,2023-02-23 12:11:32,NULL,17,1
+27,Acte de mariage (si marié),2023-02-09 10:24:15,2023-02-23 12:11:32,NULL,17,1
+28,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:45,NULL,17,1
+29,Facture CIE / SODECI,2023-02-09 10:25:03,2023-02-23 12:11:32,NULL,17,1
+30,Plan de localisation du siège,2023-02-09 10:25:22,2023-02-23 12:11:32,NULL,17,1
+31,CNI / Passeport,2022-11-28 12:15:51,2023-04-20 09:12:46,NULL,18,1
+32,Extrait de naissance,2023-02-09 10:24:04,2023-02-23 12:11:32,NULL,18,1
+33,Acte de mariage (si marié),2023-02-09 10:24:15,2023-02-23 12:11:32,NULL,18,1
+34,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:45,NULL,18,1
+35,Facture CIE / SODECI,2023-02-09 10:25:03,2023-02-23 12:11:32,NULL,18,1
+36,Plan de localisation du siège,2023-02-09 10:25:22,2023-02-23 12:11:32,NULL,18,1
+37,CNI / Passeport,2022-11-28 12:15:51,2023-04-20 09:12:47,NULL,11,1
+38,Extrait de naissance,2023-02-09 10:24:04,2023-02-23 12:11:32,NULL,11,1
+39,Acte de mariage (si marié),2023-02-09 10:24:15,2023-02-23 12:11:32,NULL,11,1
+40,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:45,NULL,11,1
+41,Facture CIE / SODECI,2023-02-09 10:25:03,2023-02-23 12:11:32,NULL,11,1
+42,Plan de localisation du siège,2023-02-09 10:25:22,2023-02-23 12:11:32,NULL,11,1
+43,CNI / Passeport,2022-11-28 12:15:51,2023-04-20 09:12:47,NULL,12,1
+44,Extrait de naissance,2023-02-09 10:24:04,2023-02-23 12:11:32,NULL,12,1
+45,Acte de mariage (si marié),2023-02-09 10:24:15,2023-02-23 12:11:32,NULL,12,1
+46,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:44,NULL,12,1
+47,Facture CIE / SODECI,2023-02-09 10:25:03,2023-02-23 12:11:32,NULL,12,1
+48,Plan de localisation du siège,2023-02-09 10:25:22,2023-02-23 12:11:32,NULL,12,1
+49,CNI / Passeport,2022-11-28 12:15:51,2023-04-20 09:12:46,NULL,13,1
+50,Extrait de naissance,2023-02-09 10:24:04,2023-02-23 12:11:32,NULL,13,1
+51,Acte de mariage (si marié),2023-02-09 10:24:15,2023-02-23 12:11:32,NULL,13,1
+52,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:44,NULL,13,1
+53,Facture CIE / SODECI,2023-02-09 10:25:03,2023-02-23 12:11:32,NULL,13,1
+54,Plan de localisation du siège,2023-02-09 10:25:22,2023-02-23 12:11:32,NULL,13,1
+55,CNI / Passeport,2022-11-28 12:15:51,2023-04-20 09:12:46,NULL,14,1
+56,Extrait de naissance,2023-02-09 10:24:04,2023-02-23 12:11:32,NULL,14,1
+57,Acte de mariage (si marié),2023-02-09 10:24:15,2023-02-23 12:11:32,NULL,14,1
+58,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:44,NULL,14,1
+59,Facture CIE / SODECI,2023-02-09 10:25:03,2023-02-23 12:11:32,NULL,14,1
+60,Plan de localisation du siège,2023-02-09 10:25:22,2023-02-23 12:11:32,NULL,14,1
+61,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:29,NULL,16,1
+62,"Casier judiciaire (de moins de trois mois)/ Déclaration sur l'honneur",2023-02-09 10:24:34,2023-04-24 09:08:43,NULL,16,1
+63,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:29,NULL,19,1
+64,"Casier judiciaire (de moins de trois mois) / Déclaration sur l'honneur",2023-02-09 10:24:34,2023-04-24 09:08:43,NULL,19,1
+65,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:30,NULL,20,1
+66,"Casier judiciaire (de moins de trois mois)/ Déclaration sur l'honneur",2023-02-09 10:24:34,2023-04-24 09:08:43,NULL,20,1
+67,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:30,NULL,21,1
+68,"Casier judiciaire (de moins de trois mois)/ Déclaration sur l'honneur",2023-02-09 10:24:34,2023-04-24 09:08:42,NULL,21,1
+69,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:30,NULL,26,1
+70,"Casier judiciaire (de moins de trois mois)/ Déclaration sur l'honneur",2023-02-09 10:24:34,2023-04-24 09:08:42,NULL,26,1
+71,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:30,NULL,27,1
+72,"Casier judiciaire (de moins de trois mois)/ Déclaration sur l'honneur",2023-02-09 10:24:34,2023-04-24 09:08:42,NULL,27,1
+73,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:31,NULL,28,1
+74,"Casier judiciaire (de moins de trois mois) / Déclaration sur l'honneur",2023-02-09 10:24:34,2023-04-24 09:08:41,NULL,28,1
+75,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:31,NULL,22,1
+76,Acte de naissance,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,22,1
+77,Photo,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,22,1
+78,Visa,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,22,1
+79,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:41,NULL,22,1
+80,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:31,NULL,23,1
+81,Acte de naissance,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,23,1
+82,Photo,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,23,1
+83,Visa,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,23,1
+84,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:41,NULL,23,1
+85,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:31,NULL,24,1
+86,Acte de naissance,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,24,1
+87,Photo,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,24,1
+88,Visa,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,24,1
+89,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:40,NULL,24,1
+90,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:32,NULL,25,1
+91,Acte de naissance,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,25,1
+92,Photo,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,25,1
+93,Visa,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,25,1
+94,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:40,NULL,25,1
+95,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:32,NULL,29,1
+96,Acte de naissance,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,29,1
+97,Photo,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,29,1
+98,Visa,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,29,1
+99,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:40,NULL,29,1
+100,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:32,NULL,30,1
+101,Acte de naissance,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,30,1
+102,Photo,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,30,1
+103,Visa,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,30,1
+104,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:39,NULL,30,1
+105,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:32,NULL,31,1
+106,Acte de naissance,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,31,1
+107,Photo,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,31,1
+108,Visa,2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,31,1
+109,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:39,NULL,31,1
+110,Carte Nationale (Marocain) /Passeport (Etranger),2022-11-28 12:15:51,2023-03-28 17:11:43,NULL,32,1
+111,"Certificat de société / Contrat de Bail (du Siège social, uniquement si vous n’avez pas opter pour la domiciliation à Legafrik)",2023-02-09 10:24:34,2023-03-28 17:15:05,NULL,32,1
+112,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:33,NULL,33,1
+113,Certificat de propriété / Contrat de Bail,2023-02-09 10:24:34,2023-02-23 12:11:32,NULL,33,1
+114,Carte Nationale (Marocain) /Passeport (Etranger),2022-11-28 12:15:51,2023-03-28 17:12:02,NULL,34,1
+115,"Certificat de société / Contrat de Bail (du Siège social, uniquement si vous n’avez pas opter pour la domiciliation à Legafrik)",2023-02-09 10:24:34,2023-03-28 17:15:16,NULL,34,1
+116,Carte Nationale (Marocain) /Passeport (Etranger),2022-11-28 12:15:51,2023-03-28 17:12:09,NULL,35,1
+117,"Certificat de société / Contrat de Bail (du Siège social, uniquement si vous n’avez pas opter pour la domiciliation à Legafrik)",2023-02-09 10:24:34,2023-03-28 17:15:23,NULL,35,1
+118,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:33,NULL,36,1
+119,Certificat de propriété / Contrat de Bail,2023-02-09 10:24:34,2023-02-23 12:11:32,NULL,36,1
+120,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:33,NULL,37,1
+121,Certificat de propriété / Contrat de Bail,2023-02-09 10:24:34,2023-02-23 12:11:32,NULL,37,1
+122,CNI (Pour les nationaux) / Passeport (Pour les étrangers),2022-11-28 12:15:51,2023-03-31 10:05:33,NULL,38,1
+123,Certificat de propriété / Contrat de Bail,2023-02-09 10:24:34,2023-02-23 12:11:32,NULL,38,1
+124,"Pièce d'identité  (Passeport pour les étranger)",2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,39,1
+125,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:39,NULL,39,1
+126,"Pièce d'identité  (Passeport pour les étranger)",2022-11-28 12:15:51,2023-02-23 12:11:32,NULL,40,1
+127,Casier judiciaire (de moins de trois mois),2023-02-09 10:24:34,2023-04-24 09:08:39,NULL,40,1
+147,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,1,0
+148,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,1,0
+149,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,1,0
+150,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,2,0
+151,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,2,0
+152,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,2,0
+153,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,9,0
+154,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,9,0
+155,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,9,0
+156,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,16,0
+157,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,16,0
+158,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,16,0
+159,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,17,0
+160,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,17,0
+161,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,17,0
+162,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,18,0
+163,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,18,0
+164,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,18,0
+165,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,19,0
+166,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,19,0
+167,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,19,0
+168,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,20,0
+169,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,20,0
+170,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,20,0
+171,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,21,0
+172,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,21,0
+173,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,21,0
+174,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,22,0
+175,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,22,0
+176,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,22,0
+177,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,23,0
+178,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,23,0
+179,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,23,0
+180,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,24,0
+181,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,24,0
+182,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,24,0
+183,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,25,0
+184,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,25,0
+185,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,25,0
+186,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,32,0
+187,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,32,0
+188,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,32,0
+189,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,33,0
+190,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,33,0
+191,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,33,0
+192,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,34,0
+193,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,34,0
+194,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,34,0
+195,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,35,0
+196,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,35,0
+197,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,35,0
+198,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,39,0
+199,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,39,0
+200,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,39,0
+201,RCCM,2022-11-22 17:36:16,2023-02-23 11:51:48,NULL,40,0
+202,Statut de la personne morale,2023-02-01 12:05:49,2023-02-23 11:52:30,NULL,40,0
+203,Le PV de l’AG (autorisant la à participer à la création d’une société),2023-02-10 14:42:35,2023-02-23 11:52:44,NULL,40,0
