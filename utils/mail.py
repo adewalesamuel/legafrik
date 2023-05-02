@@ -14,11 +14,11 @@ env.read_env()
 def send_text_mail(subject: str, receivers: list, message: str):
     try:
         data = {
-            "nom":"DJAMA Med",
-            "prenoms":"Med",
+            "nom":"",
+            "prenoms":"",
             "message":message,
-            "confirm_email_url":"https://devuser.legafrik.com",
-            "confirmation_token":"Xdgfsfg"
+            "confirm_email_url":"",
+            "confirmation_token":""
         }
         
         mail = Mail(current_app)
